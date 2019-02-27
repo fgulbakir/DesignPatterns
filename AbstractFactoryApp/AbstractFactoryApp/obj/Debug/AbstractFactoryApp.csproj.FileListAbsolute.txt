@@ -1,0 +1,7 @@
+C:\Users\KTN44424\Desktop\Design Patterns Applications\AbstractFactoryApp\AbstractFactoryApp\bin\Debug\AbstractFactoryApp.exe.config
+C:\Users\KTN44424\Desktop\Design Patterns Applications\AbstractFactoryApp\AbstractFactoryApp\bin\Debug\AbstractFactoryApp.exe
+C:\Users\KTN44424\Desktop\Design Patterns Applications\AbstractFactoryApp\AbstractFactoryApp\bin\Debug\AbstractFactoryApp.pdb
+C:\Users\KTN44424\Desktop\Design Patterns Applications\AbstractFactoryApp\AbstractFactoryApp\obj\Debug\AbstractFactoryApp.csprojAssemblyReference.cache
+C:\Users\KTN44424\Desktop\Design Patterns Applications\AbstractFactoryApp\AbstractFactoryApp\obj\Debug\AbstractFactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\KTN44424\Desktop\Design Patterns Applications\AbstractFactoryApp\AbstractFactoryApp\obj\Debug\AbstractFactoryApp.exe
+C:\Users\KTN44424\Desktop\Design Patterns Applications\AbstractFactoryApp\AbstractFactoryApp\obj\Debug\AbstractFactoryApp.pdb
